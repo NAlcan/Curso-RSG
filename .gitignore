@@ -36,6 +36,12 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+*.csv
+*.doc
+*.docx
+
+/Datos
+
 # R Environment Variables
 .Renviron
 
